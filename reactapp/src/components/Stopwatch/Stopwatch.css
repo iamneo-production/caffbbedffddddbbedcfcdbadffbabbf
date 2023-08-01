@@ -34,10 +34,11 @@
 }
 
 .btn{
-    background-color:aliceblue;
-    border:1px solid rgb(43, 43, 43);
+    background-color:gainsboro;
+    border:2px solid rgb(43, 43, 43);
     font-size: 30px;
-    padding: 10px 20px;
+    font-style: normal;
+    padding: 5px 15px;
     margin: 10px 20px;
-    border-radius: 10px;
+    border-radius: 5px;
 }
