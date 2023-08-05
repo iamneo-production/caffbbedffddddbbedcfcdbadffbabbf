@@ -11,7 +11,7 @@ describe('Testing Stopwatch', () => {
         
         act(() => {
             render(<Stopwatch />);
-            jest.useFakeTimers(1000);
+            jest.advanceTimersByTime(1000);
           });
         
         
