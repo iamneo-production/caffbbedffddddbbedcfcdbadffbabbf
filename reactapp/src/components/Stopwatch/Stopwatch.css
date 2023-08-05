@@ -37,9 +37,9 @@
 
 .btn{
     background-color:gainsboro;
-    border:5px solid rgb(43, 43, 43);
+    border:4px solid rgb(108, 107, 107);
     font-size: 25px;
-    padding: 10px 25px;
+    padding: 5px 15px;
     margin: 10px 25px;
     border-radius: 5px;
 }
